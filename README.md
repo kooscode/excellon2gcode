@@ -7,7 +7,7 @@
 </br>
 <strong>INSTALL INSTRUCTIONS:</strong></br>
 </br>
--- Install Node.js </br>
+-- Install Node.js from http://nodejs.org </br>
 -- Install the command" and clear node packages:</br>
   <pre>npm install --save command</pre></br>
  <pre>npm install --save clear</pre></br>
