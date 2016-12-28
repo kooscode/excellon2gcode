@@ -2,9 +2,9 @@
 
 INSTALL INSTRUCTIONS:
 
-Install the "command" and "clear" node packages:
-  npm install --save command
-  npm install --save clear
+Install the "command" and "clear" node packages:\n
+  npm install --save command\n
+  npm install --save clear\n
   
 Install "e2g" as a CLI command:
   npm install -g
