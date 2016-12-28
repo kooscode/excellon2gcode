@@ -7,12 +7,13 @@
 </br>
 <strong>INSTALL INSTRUCTIONS:</strong></br>
 </br>
--- Install Node.js from http://nodejs.org </br>
--- Install the "command" and "clear" required node modules in the repo directory:</br>
+Install Node.js from http://nodejs.org </br>
+</br>
+Install the "command" and "clear" required node modules in the repo directory:</br>
   <pre>npm install --save command</pre></br>
  <pre>npm install --save clear</pre></br>
   </br>
--- Install "e2g" as a CLI command:</br>
+Install "e2g" as a CLI command:</br>
   <pre>npm install -g</pre></br>
   </br>
  <strong>USAGE:</strong></br>
