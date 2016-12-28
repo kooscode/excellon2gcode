@@ -1,0 +1,15 @@
+{
+  "name": "excellon2gcode",
+  "version": "1.0.0",
+  "description": "Excellon to GCode Converter",
+  "main": "index.js",
+  "author": "kdp",
+  "license": "ISC",
+  "bin": {
+    "e2g": "./index.js"
+  },
+  "dependencies": {
+    "clear": "0.0.1",
+    "commander": "^2.9.0"
+  }
+}
