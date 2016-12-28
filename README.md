@@ -7,13 +7,14 @@
 </br>
 <strong>INSTALL INSTRUCTIONS:</strong></br>
 </br>
-Install the "command" and "clear" node packages:</br>
-  npm install --save command</br>
-  npm install --save clear</br>
+-- Install Node.js </br>
+-- Install the command" and clear node packages:</br>
+  <pre>npm install --save command</pre></br>
+ <pre>npm install --save clear</pre></br>
   </br>
-Install "e2g" as a CLI command:</br>
-  npm install -g</br>
+-- Install "e2g" as a CLI command:</br>
+  <pre>npm install -g</pre></br>
   </br>
  <strong>USAGE:</strong></br>
-  e2g [excellon-filename]</br>
+  <pre>e2g [excellon-filename]</pre></br>
  
