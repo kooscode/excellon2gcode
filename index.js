@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-//GCODE Generator - kdupreez@hotmail.com
-
 var pjson = require('./package.json');
 var program = require('commander');
 var clear = require('clear');
